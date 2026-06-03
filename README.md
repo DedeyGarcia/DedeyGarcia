@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Andrey 👋</h1>
 
 <p align="center">
-  Fullstack Developer based in São Paulo, Brazil. <br/>
+  Fullstack Developer based in São Carlos, Brazil. <br/>
   I build for web and mobile — from polished UIs to robust backends. <br/>
   Always working on something.
 </p>
